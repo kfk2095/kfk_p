@@ -1,0 +1,65 @@
+#profile {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	margin: auto;
+  	width: 400px;
+  	height: 300px;
+  	text-align: center;
+  	line-height: 1;
+  	/* border: solid 1px #059ff5; */
+  	font-family:Avenir , "Open Sans" , "Helvetica Neue" , Helvetica , Arial , Verdana , Roboto , "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "メイリオ" , Meiryo , "ＭＳ Ｐゴシック" , "MS PGothic" , sans-serif;
+  	font-size: 12px;
+}
+
+h1 {
+   font-size: 16px;
+   margin-bottom: 10px;
+}
+
+#image {
+    margin: 10px 20px 15px;
+}
+
+#info {
+    width: 100%;
+    font-size: 12px;
+}
+
+#job{
+  	margin-bottom: 15px;
+}
+
+#email{
+      margin-bottom: 5px;
+}
+  
+#portfolio {
+     margin-bottom: 5px;
+}
+ 
+#website{
+  	margin-bottom: 20px;
+}
+
+.email-tag, .portfolio-tag, .website-tag{
+  	padding-right: 5px;
+}
+
+a{
+  	color: #059ff5;
+  	color: #3cb371;
+  	text-decoration: underline;
+}
+  
+i{
+  	color: #000;
+  	padding-right: 10px;
+  	font-size: 18px !important;
+}
+  
+i:hover, i:active{
+  	color: #3cb371;
+}
